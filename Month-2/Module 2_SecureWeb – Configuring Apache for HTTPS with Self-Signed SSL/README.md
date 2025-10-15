@@ -299,6 +299,7 @@ sudo systemctl status apache2
 ```
 sudo ss -tuln | grep 443
 ``` 
+<img width="975" height="81" alt="image" src="https://github.com/user-attachments/assets/32e69051-e347-42fc-b5a8-df4a27410fca" />
 
 ### Step 5 – Test and Verify HTTPS Connection
 With Apache now configured and SSL enabled, the final step is to test the secure connection to ensure HTTPS is functioning properly.
