@@ -51,7 +51,46 @@ The exe file would download to your computer. Double-click the downloaded git ba
   <img width="975" height="308" alt="image" src="https://github.com/user-attachments/assets/a8613690-f209-45b3-ac5f-ded6d69597ba" />
 
  
-### Step 2: Create the EC2 instance (AWS Console)
+### Step 2: Sign to AWS and Create the EC2 instance (AWS Console)
+
+
+- Visit the AWS Website
+    - Go to the official AWS homepage: https://aws.amazon.com
+    - Click “Create an AWS Account” at the top right corner of the page.
+      <img width="951" height="813" alt="image" src="https://github.com/user-attachments/assets/f2b2f754-5ac0-43f5-8a48-c447429a7f4b" />
+
+ 
+- Select New to AWS? Sign up
+ <img width="547" height="589" alt="image" src="https://github.com/user-attachments/assets/45874618-d4a1-44b2-b798-45c47e2c459b" />
+
+
+- Enter Account Details
+    - Provide a valid email address that will be tied to your AWS root account.
+    - Create a strong password for security.
+    - Enter an AWS account name (this will identify your account).
+- Verify Email Address
+    - AWS sends a verification code or link to the email you provided.
+    - Open your email inbox and verify the account to continue registration.
+- Choose Account Type
+    - Select Personal (for individual use) or Professional (for business/organization).
+    - Fill in your name, phone number, and country/region.
+    - Provide a valid billing address for verification.
+- Add Payment Method
+    - Enter a credit/debit card or an internationally accepted virtual card (e.g., Visa, Mastercard).
+    - AWS will charge a small temporary fee (usually $1) for card verification, which is refunded.
+    - Confirm that your card is active and authorized for online transactions.
+- Verify Identity
+  - Choose a phone verification method (SMS or voice call).
+  - Enter the code sent to your phone to confirm your identity.
+  - Select a Support Plan
+  - Basic (Free) – Suitable for beginners.
+- Sign In to the AWS Management Console
+  - After successful verification, go to
+    ```
+    https://console.aws.amazon.com.
+    ```
+  - Log in with your root email and password.
+  - You now have full access to AWS services.
 
 - Sign in to AWS and Launch it
  <img width="975" height="398" alt="image" src="https://github.com/user-attachments/assets/8e3883c2-f4dd-4b62-9f88-064be02b5ec1" />
